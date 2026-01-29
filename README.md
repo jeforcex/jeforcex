@@ -13,15 +13,11 @@ Learn more about the Innovator's [Interest](#interest) and [Technology Stack](#t
 
 ## Technology Stack
 
-### Language
-- [HyperText Markup Language](https://en.wikipedia.org/wiki/HTML) (**HTML**)
-- [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (**CSS**)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (**JS**)
-- [PHP: HyperText Preprocessor](https://en.wikipedia.org/wiki/PHP) (**PHP**)
-- [Structured Query Langauge](https://en.wikipedia.org/wiki/SQL) (**SQL**)
-- [Markdown](https://en.wikipedia.org/wiki/Markdown) (**MD**)
-
-### Software
-- [Visual Studio Code](https://code.visualstudio.com) (**VS Code**)
-- [WordPress](https://wordpress.org) (**WP**)
-- [MediaWiki](https://mediawiki.org) (**MW**)
+| Language | Software |
+|----------|----------|
+| [HyperText Markup Language](https://en.wikipedia.org/wiki/HTML) (**HTML**) | [Visual Studio Code](https://code.visualstudio.com) (**VS Code**) |
+| [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (**CSS**) | [WordPress](https://wordpress.org) (**WP**) |
+| [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (**JS**) | [MediaWiki](https://mediawiki.org) (**MW**) |
+| [PHP: HyperText Preprocessor](https://en.wikipedia.org/wiki/PHP) (**PHP**) | |
+| [Structured Query Langauge](https://en.wikipedia.org/wiki/SQL) (**SQL**) | |
+| [Markdown](https://en.wikipedia.org/wiki/Markdown) (**MD**) | |
