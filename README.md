@@ -1,10 +1,27 @@
-### Whale Hello There 🐳
+# JΞFØRCΞX
 
-- 🔭 I’m currently working on [JeForceX™ Forge](https://github.com/JeForceX/jeforcex.github.io)
-- 🌱 I’m currently learning [SQL](https://github.com/topics/sql).
-- 💬 Ask me about [Role-Playing Games](https://github.com/topics/rpg).
-- 📫 How to reach me: [Contact Form](https://jeforcexofficial.wordpress.com/contact/) via [JeForceX™](https://jeforcexofficial.wordpress.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Japanese Popular Culture Hobbyist ("**J-Hobbyist**").
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+### Brief Introduction
+
+Greetings and welcome to the **GitHub Profile** of an **Innovator**!
+
+Learn more about the Innovator's [Interest](#interest) and [Technology Stack](#technology-stack) in their respective sections.
+
+## Interest
+- [Content Management System](https://en.wikipedia.org/wiki/Content_management_system) (**CMS**)
+- [Role-Playing Game](https://en.wikipedia.org/wiki/Role-playing_game) (**RPG**)
+- [Software-as-a-Service](https://en.wikipedia.org/wiki/Software_as_a_service) (**SaaS**)
+
+## Technology Stack
+
+### Language
+- [HyperText Markup Language](https://en.wikipedia.org/wiki/HTML) (**HTML**)
+- [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (**CSS**)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (**JS**)
+- [PHP: HyperText Preprocessor](https://en.wikipedia.org/wiki/PHP) (**PHP**)
+- [Structured Query Langauge](https://en.wikipedia.org/wiki/SQL) (**SQL**)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown) (**MD**)
+
+### Software
+- [Visual Studio Code](https://code.visualstudio.com) (**VS Code**)
+- [WordPress](https://wordpress.org) (**WP**)
+- [MediaWiki](https://mediawiki.org) (**MW**)
