@@ -13,8 +13,8 @@ Subject Matters sorted by Alphabetical Order (Ascending)
 | Language | Software |
 |----------|----------|
 | [HyperText Markup Language](https://en.wikipedia.org/wiki/HTML) (**HTML**) | [LibreOffice](https://libreoffice.org) (**LO**) |
-| [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (**CSS**) | [Visual Studio Code](https://code.visualstudio.com) (**VS Code**) |
-| [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (**JS**) | [Inkscape](https://inkscape.org) |
-| [PHP: HyperText Preprocessor](https://en.wikipedia.org/wiki/PHP) (**PHP**) | [GNU Image Manipulation Program](https://gimp.org) (**GIMP**) |
+| [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (**CSS**) | [Inkscape](https://inkscape.org) |
+| [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (**JS**) | [GNU Image Manipulation Program](https://gimp.org) (**GIMP**) |
+| [PHP: HyperText Preprocessor](https://en.wikipedia.org/wiki/PHP) (**PHP**) | [Visual Studio Code](https://code.visualstudio.com) (**VS Code**) |
 | [Structured Query Language](https://en.wikipedia.org/wiki/SQL) (**SQL**) | [WordPress](https://wordpress.org) (**WP**) |
 | [Markdown](https://en.wikipedia.org/wiki/Markdown) (**MD**) | [MediaWiki](https://mediawiki.org) (**MW**) |
