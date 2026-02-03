@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/jeforcex/jeforcex/refs/heads/main/asset/image/logo.png)
+
 # Introduction
 
 Greetings and welcome to the **GitHub Profile** of [JΞFØRCΞX](https://github.com/jeforcex) (pronounced "Jay Force Axe"), an **Innovator** with strong belief in and advocacy for [Keeping Calm](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On) and [Innovation](https://en.wikipedia.org/wiki/Innovation).
